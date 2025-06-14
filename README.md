@@ -12,7 +12,8 @@ A command-line encryption programs that takes user inputted messages and encrypt
 1. Compile by using: javac *. java
 2. To run it, use: java Cipher Tool
 3. Follow the the following prompts.
-    Example: Choose a cipher: Caesar
+
+### Example: Choose a cipher: Caesar
              Enter message: Apple
              Enter shifts: 13
              Encrypted message: Nccyr
